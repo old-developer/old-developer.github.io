@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[一名老码农]]></title>
+  <subtitle><![CDATA[时代变化快呀，老家伙们还有战斗在一线的吗]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://blog.woodylab.org/"/>
+  <updated>2015-02-18T16:39:24.592Z</updated>
+  <id>http://blog.woodylab.org/</id>
+  
+  <author>
+    <name><![CDATA[WoodyLab]]></name>
+    <email><![CDATA[lionel@woodylab.org]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://blog.woodylab.org/2015/02/09/hello-world/"/>
+    <id>http://blog.woodylab.org/2015/02/09/hello-world/</id>
+    <published>2015-02-09T10:44:12.000Z</published>
+    <updated>2014-02-15T13:23:12.000Z</updated>
+    <content type="html"><![CDATA[<p>首先感谢 <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! 墙裂要求大家都来试试这个东东！非常好用、小巧，基于nodejs，跨平台。</p>
+<a id="more"></a>
+<h3 id="试公式">试公式</h3>
+<p>$$J_\alpha(x)=\sum _{m=0}^\infty \frac{(-1)^ m}{m! \, \Gamma (m + \alpha + 1)}{\left({\frac{x}{2}}\right)}^{2 m + \alpha }$$</p>
+<h3 id="试图">试图</h3>
+<p>有洋人的就不用天朝的，占鬼子的空间去。<br>有免费的就不用收费的<br><a href="http://snapgr.am/image/Tzq" target="_blank" rel="external"><img src="http://cdn1.snapgram.co/imgs/2015/02/18/Walker.jpg" border="0" alt="snapgr.am"></a><br>经试验 <code>http://snapgr.am/</code> <span style="color:red">有水印</span>，不是很舒服</p>
+<p><img src="https://geekpics.net/images/2015/02/18/PrGplqt7a.jpg" alt="geekpics.net" border="0"><br><a href="https://geekpics.net/" target="_blank" rel="external">https://geekpics.net/</a> 无需注册，也没水印，很好。<br>听说从09年活到现在了，看来生存有道，活下去问题不大。<br>支持格式：JPG PNG GIF BMP<br>文件大小限制：10MB<br>流量限制：1G/月/图<br>坏处也是不注册，不登录，发的图如果不当时记住，下次就找不到了，无法管理。<br>无所谓了，不行就重发，自己留底儿就是了。</p>
+<p><a href="http://imgur.com/FPQhigC" target="_blank" rel="external"><img src="http://i.imgur.com/FPQhigC.jpg" alt="imgur.com"></a><br><code>imgur</code> 貌似管理界面被<span style="color:red">墙</span>？<br>不过图倒是能正常出来，很好，速度也挺快。</p>
+<p>墙内的<br><img src="http://7vzph9.com1.z0.glb.clouddn.com/Walker.jpg" alt="七牛" border="0"><br>七牛云，还行<br>又拍云貌似没免费的，只有试用</p>
+<h3 id="感谢">感谢</h3>
+<p>2015-02-15，利用晚上的时间，基本把功能搞熟悉了。<br>2015-02-18，边看晚会边试了几个图床。<br>感谢<a href="http://ibruce.info/2013/11/22/hexo-your-blog/" target="_blank" rel="external">不如</a>，感谢<a href="http://blog.fens.me/hexo-blog-github/" target="_blank" rel="external">张丹(Conan)</a>，还有许多发表hexo用法的同学，写的太详尽了，我就不再重复写这些内容了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>首先感谢 <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! 墙裂要求大家都来试试这个东东！非常好用、小巧，基于nodejs，跨平台。</p>
+]]>
+    
+    </summary>
+    
+      <category term="开始" scheme="http://blog.woodylab.org/tags/%E5%BC%80%E5%A7%8B/"/>
+    
+      <category term="我" scheme="http://blog.woodylab.org/tags/%E6%88%91/"/>
+    
+      <category term="日志" scheme="http://blog.woodylab.org/tags/%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="第一天" scheme="http://blog.woodylab.org/categories/%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+    
+  </entry>
+  
+</feed>
